@@ -41,8 +41,6 @@ function Chats() {
 			{[1, 2, 3, 4].map(() => (
 				<List>
 					<Img
-						width="32px"
-						height="32px"
 						src="https://w7.pngwing.com/pngs/887/945/png-transparent-line-application-bear-illustration-kakaotalk-kakao-friends-emoticon-kakao-ryan-smiley-sticker-desktop-wallpaper.png"
 						alt="user"
 					/>
